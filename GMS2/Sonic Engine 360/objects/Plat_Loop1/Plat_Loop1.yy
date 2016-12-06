@@ -1,18 +1,18 @@
 {
-    "id": "e329c58d-851b-4fb2-bc4f-8af3f9ae2ca9",
+    "id": "5c07b83e-cb07-4020-8fa2-af285a23acf7",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "Plat_Loop1",
     "eventList": [
         {
-            "id": "437ed95e-5f10-4ad5-ad71-6383ad896995",
+            "id": "b8bf6e91-3eb6-45ef-aaa6-cd1523c447a7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e329c58d-851b-4fb2-bc4f-8af3f9ae2ca9"
+            "m_owner": "5c07b83e-cb07-4020-8fa2-af285a23acf7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     ],
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "617a7405-5566-42de-ac23-94ca5968e19b",
+    "spriteId": "5294d59d-199c-4440-9f91-6bf78ab0aa29",
     "visible": true
 }

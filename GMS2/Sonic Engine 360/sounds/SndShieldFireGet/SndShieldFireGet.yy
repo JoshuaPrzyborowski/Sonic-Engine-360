@@ -1,5 +1,5 @@
 {
-    "id": "ba52000e-8472-4b31-ac33-345d07b4400a",
+    "id": "60fddbaf-f136-42e7-9776-d13b76bd7581",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "SndShieldFireGet",

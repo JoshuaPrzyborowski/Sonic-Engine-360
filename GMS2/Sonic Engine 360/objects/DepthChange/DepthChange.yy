@@ -1,22 +1,22 @@
 {
-    "id": "864cfb9c-e1b9-483c-84db-2ff9e145c33b",
+    "id": "b9a5ed56-4eaf-4e33-aa3d-a8a7882e85cf",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "DepthChange",
     "eventList": [
         {
-            "id": "c48fea41-e77e-4eeb-aa88-51032b1ddb4d",
+            "id": "26181648-cc96-4a26-b8d5-7c098c62995f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "864cfb9c-e1b9-483c-84db-2ff9e145c33b"
+            "m_owner": "b9a5ed56-4eaf-4e33-aa3d-a8a7882e85cf"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "dcde65b3-359c-44f5-9c3f-9394f456c765",
+    "parentObjectId": "d081e057-2bc7-4225-88a0-f4a7a28df037",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     ],
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "a7b0c97b-f1b3-45a5-a10b-f77ff611fdc7",
+    "spriteId": "9a1ed422-f359-4059-a1e4-c5805b586ab9",
     "visible": false
 }

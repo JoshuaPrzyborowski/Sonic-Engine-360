@@ -1,5 +1,5 @@
 {
-    "id": "407dda74-b91e-4f46-b771-06c9550e5a02",
+    "id": "dec0e7a6-a7d7-431f-b4b6-4c1d16425c12",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "SndDie",

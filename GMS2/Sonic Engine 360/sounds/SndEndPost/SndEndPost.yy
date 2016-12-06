@@ -1,5 +1,5 @@
 {
-    "id": "d58ad97f-ff53-4c41-bbb2-debd7df52fcb",
+    "id": "eb79b952-2377-41e9-a34d-1ba767db61cb",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "SndEndPost",

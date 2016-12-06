@@ -1,5 +1,5 @@
 {
-    "id": "da3b36f9-e495-483b-8c7a-c49bdb0357a6",
+    "id": "db3a3c5c-fade-4fd7-ad27-e54f019d2607",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "SolidParent",

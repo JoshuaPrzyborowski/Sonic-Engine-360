@@ -1,22 +1,22 @@
 {
-    "id": "a4dc6154-3313-4fb3-ba5d-0161882c6c71",
+    "id": "5bc1ce2d-5ad4-4a83-ba0f-e84f7f1e9179",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "SpringUpRight",
     "eventList": [
         {
-            "id": "8dd7de6f-73f1-4849-96e5-8c45db51fbd7",
+            "id": "ba91f11f-e1fa-4b03-94e0-fbd9f7f1ebc6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "a4dc6154-3313-4fb3-ba5d-0161882c6c71"
+            "m_owner": "5bc1ce2d-5ad4-4a83-ba0f-e84f7f1e9179"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "2f1da18e-b867-4edd-8a24-2ca936d6c084",
+    "parentObjectId": "d7ad746b-d4d9-4d15-b0f8-94fa163ca7dc",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     ],
     "physicsStartAwake": true,
     "solid": true,
-    "spriteId": "4e119833-7e0f-4ea8-b4f3-ebe106e797c3",
+    "spriteId": "14f740c6-58ac-4581-98c1-7cae27f639a1",
     "visible": true
 }

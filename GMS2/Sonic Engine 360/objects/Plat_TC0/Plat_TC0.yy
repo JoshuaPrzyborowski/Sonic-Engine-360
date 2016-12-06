@@ -1,5 +1,5 @@
 {
-    "id": "47af3ec1-7ea7-4882-882b-7057c8f69ec8",
+    "id": "a5a7f6c6-7e37-4390-929e-24c79928864f",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "Plat_TC0",
@@ -7,7 +7,7 @@
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "b8ac6156-c807-4b40-bf16-79b0837f4b5b",
+    "parentObjectId": "68e1620b-c801-4c77-afdc-00e6dae6a9f8",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     ],
     "physicsStartAwake": true,
     "solid": true,
-    "spriteId": "9cc740f9-d8c3-427a-8f4d-d9ac1f70bbcf",
+    "spriteId": "da420edf-4c5f-416b-b033-59d4e8f46740",
     "visible": true
 }

@@ -2,7 +2,7 @@
     "id": "f418569b-3bdd-4706-a0e4-364317f54032",
     "modelName": "GMMacOptions",
     "mvc": "1.0",
-    "name": "Mac",
+    "name": "macOS",
     "option_mac_allow_fullscreen": true,
     "option_mac_allow_incoming_network": false,
     "option_mac_allow_outgoing_network": false,

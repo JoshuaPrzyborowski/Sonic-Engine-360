@@ -1,22 +1,22 @@
 {
-    "id": "5051c808-98b7-41e8-9448-34c4c9bbb4a7",
+    "id": "12187a6b-0ceb-4020-a59c-a2744ab01e1b",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "SpringLeft",
     "eventList": [
         {
-            "id": "d8bd8ee6-0385-414a-bf45-97bc8737e79f",
+            "id": "7747fb75-ff15-4387-abb5-81f53d7e4de0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "5051c808-98b7-41e8-9448-34c4c9bbb4a7"
+            "m_owner": "12187a6b-0ceb-4020-a59c-a2744ab01e1b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "2f1da18e-b867-4edd-8a24-2ca936d6c084",
+    "parentObjectId": "d7ad746b-d4d9-4d15-b0f8-94fa163ca7dc",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     ],
     "physicsStartAwake": true,
     "solid": true,
-    "spriteId": "0690bf90-d56e-4e3a-897f-e5def2b0e245",
+    "spriteId": "19a01e6d-08fb-4cca-a777-b3c92d6d0123",
     "visible": true
 }

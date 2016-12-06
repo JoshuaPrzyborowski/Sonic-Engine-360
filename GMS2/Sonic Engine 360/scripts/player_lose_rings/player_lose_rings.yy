@@ -1,5 +1,5 @@
 {
-    "id": "23a4f031-1027-469e-b274-abb35001efc2",
+    "id": "d40db9a5-1757-402d-ae49-15a9742b71e1",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "player_lose_rings",

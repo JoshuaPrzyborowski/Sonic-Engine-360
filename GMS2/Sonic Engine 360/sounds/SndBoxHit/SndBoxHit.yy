@@ -1,5 +1,5 @@
 {
-    "id": "36ee08bb-50c1-48a0-81e7-52a018c5a2ba",
+    "id": "d5454dd2-2c81-43f4-bd4a-efb4e0244beb",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "SndBoxHit",

@@ -1,5 +1,5 @@
 {
-    "id": "a02b8903-9922-44b4-8b02-d8402bbd79b5",
+    "id": "c7d66b4c-a122-4cc1-b484-dcbdf42486f9",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "SndSpin",

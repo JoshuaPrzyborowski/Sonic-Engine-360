@@ -1,5 +1,5 @@
 {
-    "id": "cbd6851e-70ca-49bf-9f45-6ec0e1cc6c53",
+    "id": "f98bc3e0-ddcb-44b4-bba8-47c9ade24415",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "SndShieldElectricityAction",

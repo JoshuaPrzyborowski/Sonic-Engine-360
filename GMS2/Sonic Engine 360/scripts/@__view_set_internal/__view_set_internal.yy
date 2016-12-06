@@ -1,5 +1,5 @@
 {
-    "id": "70435b04-e5fd-41c3-9ca8-ff99431eb07e",
+    "id": "2a2ac6a1-0138-4e2c-a341-a61010cc8f43",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "__view_set_internal",

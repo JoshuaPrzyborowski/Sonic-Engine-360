@@ -1,5 +1,5 @@
 {
-    "id": "55a56528-ea9b-433f-a44c-8fe20160c20f",
+    "id": "55b7726a-fc23-4016-aa7c-71632848b5be",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "generate_baked_walls",

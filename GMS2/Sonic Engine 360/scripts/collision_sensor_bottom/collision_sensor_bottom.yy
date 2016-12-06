@@ -1,5 +1,5 @@
 {
-    "id": "a1fc3290-e61c-4cac-adc0-7d108db72b24",
+    "id": "09ea6eda-eca6-4163-aff1-6aa9b1320b3c",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "collision_sensor_bottom",

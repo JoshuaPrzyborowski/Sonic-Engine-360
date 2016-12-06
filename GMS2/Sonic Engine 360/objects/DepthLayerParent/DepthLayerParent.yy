@@ -1,18 +1,18 @@
 {
-    "id": "dcde65b3-359c-44f5-9c3f-9394f456c765",
+    "id": "d081e057-2bc7-4225-88a0-f4a7a28df037",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "DepthLayerParent",
     "eventList": [
         {
-            "id": "933abd63-2897-4596-9f25-5f19c25d345a",
+            "id": "39347a5f-43f1-4b43-8c60-3a3383fa1097",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 3,
-            "m_owner": "dcde65b3-359c-44f5-9c3f-9394f456c765"
+            "m_owner": "d081e057-2bc7-4225-88a0-f4a7a28df037"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     ],
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "0c790317-9f4f-4caf-a906-66d984248faf",
+    "spriteId": "72240126-ff6e-4bf0-baae-d7ef4f07848e",
     "visible": false
 }

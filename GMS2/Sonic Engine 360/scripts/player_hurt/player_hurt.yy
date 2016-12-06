@@ -1,5 +1,5 @@
 {
-    "id": "e1ccfd27-38ec-44d1-8772-76fb0462459d",
+    "id": "fd27d620-d31e-4b95-a695-ce4157b35c40",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "player_hurt",
